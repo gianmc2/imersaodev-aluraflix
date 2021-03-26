@@ -64,20 +64,3 @@ body {
   .form-wrapper button:hover {
     opacity:.8;
   }
-body > img {
-  margin: 0 10px; 
-}
-
-.box {
-  width: 200px;
-  display: inline-block;
-  margin: 0 10px;
-}
-
-p {
-  font-family: 'Roboto Mono', monospace;
-  font-size: 20px;
-  color: white;
-  text-align: center;
-  size: 10px;
-}
